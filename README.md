@@ -31,6 +31,8 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
