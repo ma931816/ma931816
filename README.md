@@ -64,11 +64,11 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 <a href="https://www.linkedin.com/in/smalihussainnaqvi/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
-
+</a>
 <a href="https://www.instagram.com/sm.alihussain.naqvi" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
 </a>
-
+</a>
 <a href="mailto:ma931816@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="35"/>
 </a>
