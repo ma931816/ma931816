@@ -25,18 +25,23 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 - 💬 Ask me about **AWS, Azure, OCI, Docker, Linux & DevOps**
 - 📫 Reach me at **ma931816@gmail.com**
 
----
+## 🏅 Certifications
 
-## 🏆 Certifications
+<p align="left">
 
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- ✅ Oracle Cloud Infrastructure Foundations Associate
-- ✅ Oracle Cloud Infrastructure AI Foundations Associate
-- ✅ Fortinet Certified Associate in Cybersecurity (FCA)
-- ✅ GitHub Copilot
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Fortinet-FCA-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ## 🌱 Currently Learning
 
