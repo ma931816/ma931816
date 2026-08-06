@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud+Engineer+in+Progress...;DevOps+Learner...;Building+with+Docker+%F0%9F%90%B3;Orchestrating+with+Kubernetes+%E2%98%B8%EF%B8%8F;Automating+with+Terraform...;Never+Stop+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ali Hussain</h1>
 
 <h3 align="center">
