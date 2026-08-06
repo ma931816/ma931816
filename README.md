@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Syed+Muhammad+Ali+Hussain;Cloud+%26+DevOps+Enthusiast;Multi-Cloud+Certified+Professional;AWS+%7C+Azure+%7C+Google+Cloud+%7C+Oracle+Cloud;Docker+%7C+Kubernetes+%7C+Terraform;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3200&pause=1200&color=00C4FF&center=true&vCenter=true&width=1000&lines=Syed+Muhammad+Ali+Hussain;Cloud+%26+DevOps+Engineer+in+Progress;Multi-Cloud+Certified+Professional;AWS+%7C+Azure+%7C+Google+Cloud+%7C+Oracle+Cloud;Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Cloud+Solutions" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi 👋, I'm Syed Muhammad Ali Hussain</h1>
-
 <h3 align="center">
 Cloud & DevOps Enthusiast | Multi-Cloud Certified | BS Computer Science Student
 </h3>
