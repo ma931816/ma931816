@@ -102,8 +102,6 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ma931816&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma931816&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
