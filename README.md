@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ali Hussain</h1>
 
 <h3 align="center">
@@ -126,4 +125,3 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
 </p>
-```
