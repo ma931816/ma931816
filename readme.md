@@ -19,7 +19,7 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 
 - 🎓 BS Computer Science Student at **University of Central Punjab (UCP)**
 - ☁️ Multi-Cloud Certified across **AWS, Microsoft Azure, Google Cloud & Github Co-pilot, Oracle Cloud**
-- 💼 DevOps Intern at **FG Tech (Fatima Group)**
+- 💼 DevOps Intern at **OSOL Tech (Fatima Group)**
 - 🐳 Currently learning **Docker, Kubernetes, Terraform, Prometheus & Grafana**
 - 📚 Passionate about Cloud Computing, DevOps, Linux, Automation & Infrastructure as Code
 - 🤝 Open to collaborating on **Cloud, DevOps and Open Source Projects**
