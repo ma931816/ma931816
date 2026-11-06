@@ -104,23 +104,6 @@ Building scalable cloud solutions while exploring the world of DevOps, Automatio
 
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma931816&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ma931816&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 💡 Quote
 
